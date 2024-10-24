@@ -1,3 +1,4 @@
- const id = [1,2,3,4,5,6,7,8,9]
+ const user = [1,2,3,4,5,6,7,8]
 
-console.log(id[4])
+
+console.log(user)
