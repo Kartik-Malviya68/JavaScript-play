@@ -1,8 +1,7 @@
+const user = userDetails("kishan", "kartik")
 
-
-function user(user1, user2) {
-    return user1 + user2;
+function userDetails(a,b){
+ return a + b
 }
 
-const result = user(6,7);
-console.log(result)
+console.log(user) 
